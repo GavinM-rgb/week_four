@@ -17,3 +17,12 @@ lidar
      - must put object of scan on certain placement to allow better results
  
 - more scan and longer  it takes allow for better results 
+
+
+- anolog research in cemetry
+   - did not do it due to time reasons
+   - wonder if what is best from which anolog or digital are better for certain things or not 
+
+
+- github
+   - must share with shawn with possibly with each log.md individually 
